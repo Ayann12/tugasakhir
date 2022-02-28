@@ -1,0 +1,27 @@
+.bg-login-gambar {
+    background: url("../img/bahan/1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-gambar {
+    background: url("../img/bahan/2.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-register-gambar {
+    background: url("../img/bahan/3.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-password-gambar {
+    background: url("../img/bahan/4.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  .text-colornya {
+    color: rgb(238, 255, 0) !important;
+}
